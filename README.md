@@ -1,4 +1,4 @@
-<h1>CropQuotationScrapper V2</h1>
+<h1>CropQuotationScrapperV2</h1>
 
 This automation bot was developed to scrape data from a website that provides quotations for various agricultural crops in Brazil. The website used is [Agrolink](https://www.agrolink.com.br/). This scrapper bot is an updated version of a previous project, featuring more validations, security, and reliability in the collected information. It is capable of retrieving data such as:
 
