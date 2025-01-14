@@ -7,4 +7,4 @@ This automation bot was developed to scrape data from a website that provides qu
 - **Update month/year**: Reference period for the quotation.
 - **National value**: Current price of the crop in the national market.
 
-<img src="https://github.com/user-attachments/assets/432eb408-dafd-41d2-8e29-7db75cb0d3f8" width="48%">
+<img src="https://github.com/user-attachments/assets/432eb408-dafd-41d2-8e29-7db75cb0d3f8" width="50%">
