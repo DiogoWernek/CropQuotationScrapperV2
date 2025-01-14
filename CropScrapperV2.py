@@ -37,7 +37,6 @@ def encontrar_select_produto():
             if len(opcoes) >= 2:
                 return select
             else:
-                print("Menos de 2 opções encontradas. Atualizando a página...")
                 driver.refresh()
                 sleep(2)
 
