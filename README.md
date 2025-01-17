@@ -10,4 +10,5 @@ This automation bot was developed to scrape data from a website that provides qu
 **Required library**
 - *Selenium*
 
+
 <img src="https://github.com/user-attachments/assets/432eb408-dafd-41d2-8e29-7db75cb0d3f8" width="50%">
